@@ -1,0 +1,20 @@
+{
+  "column": 1,
+  "crash barrier b": 2,
+  "cubic mesh stillage": 3,
+  "forklift": 4,
+  "pallet": 5,
+  "person": 6,
+  "safety bollard": 7,
+  "shelf": 8,
+  "small mesh stillage": 9,
+  "stacker": 10,
+  "fire extinguisher": 11,
+  "crash barrier a": 12,
+  "long mesh stillage": 13,
+  "shelf trolley": 14,
+  "crosswalk": 15,
+  "road marking": 16,
+  "floor": 17,
+  "wall": 18
+}

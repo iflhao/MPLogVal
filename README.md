@@ -1,6 +1,6 @@
 # MPLog
 MPLog is a multimodal panoptic dataset for intralogistics, collected from two warehouses using synchronized LiDAR and RGB camera data. 
-We release the 2D and 3D validation splits for double-blind review purposes. The full dataset will be made publicly available after the review period concludes.
+We release some examples from the 2D and 3D validation splits for double-blind review purposes. The full dataset will be made publicly available after the review period concludes.
 
 # Data Format
 ## 2D Data
